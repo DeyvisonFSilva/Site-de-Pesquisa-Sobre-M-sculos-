@@ -33,13 +33,7 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 **Vamos juntos construir uma ferramenta ainda mais completa para os amantes da musculação!**
 
-**#musculação #anatomia #programação #javascript #html #css #treino**
-
-**Dica:** Para deixar o README ainda mais legal, você pode adicionar um GIF animado mostrando a aplicação em funcionamento ou um banner chamativo.
-
-**Observação:** Adapte este README de acordo com as características específicas do seu projeto e o nível de detalhamento que você deseja.
-
-**Gostou? Precisa de mais alguma coisa? Fala aí!** 
+**#musculação #anatomia #programação #javascript #html #css #treino** 
 
 **Tradução:**
 
