@@ -1,5 +1,3 @@
-## **README descontraído para o seu projeto de busca de músculos**
-
 ### ** Busca Músculos: Encontre o músculo perfeito para o seu treino!**
 
 **O que faz essa aplicação?**
